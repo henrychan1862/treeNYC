@@ -1,0 +1,12 @@
+|    | Name                      | Dtype   | Example                        | Description   |
+|---:|:--------------------------|:--------|:-------------------------------|:--------------|
+|  0 | species_scientific_name   | STRING  | Quercus phellos                |               |
+|  1 | species_common_name       | STRING  | Willow Oak                     |               |
+|  2 | form                      | STRING  | Rounded                        |               |
+|  3 | growth_rate               | STRING  | Slow                           |               |
+|  4 | fall_color                | STRING  | Yellow/Orange                  |               |
+|  5 | environmental_tolerances  | STRING  | Drought and Pollution Tolerant |               |
+|  6 | location_tolerances       | STRING  | Median Tree                    |               |
+|  7 | notes_suggested_cultivars | STRING  | Plant Spring Only              |               |
+|  8 | tree_size                 | STRING  | Large (Mature Height > 50 ft)  |               |
+|  9 | comments                  | STRING  |                                |               |

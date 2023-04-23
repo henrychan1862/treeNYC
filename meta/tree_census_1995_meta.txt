@@ -1,0 +1,29 @@
+|    | Name               | Dtype   | Example           | Description                                                                                                                                     |
+|---:|:-------------------|:--------|:------------------|:------------------------------------------------------------------------------------------------------------------------------------------------|
+|  0 | recordid           | INTEGER | 21111             | A unique identifier for each record in the table. Does not correspond to other datasets or identify the tree itself.                            |
+|  1 | address            | STRING  | 700 W 123 ST      | Address of the tree.                                                                                                                            |
+|  2 | house_number       | STRING  | 700.0             | Numerical portion of the address.                                                                                                               |
+|  3 | street             | STRING  | W 123 ST          | Street where address for tree is located.                                                                                                       |
+|  4 | zip_original       | INTEGER | 0                 | The zip code originally geocoded to the address using LION 02A                                                                                  |
+|  5 | cb_original        | INTEGER | 0                 | The community board originally geocoded to the address using LION 02A                                                                           |
+|  6 | site               | STRING  | Across            | This field clarifies the position relative to the address for trees not located in the front of buildings.                                      |
+|  7 | species            | STRING  | QUPA              | Species of the tree using a four-letter code, comprised of the first two letters of the genus followed by the first two letters of the species. |
+|  8 | diameter           | INTEGER | 15                | Diameter of the tree as measured at approximately 4.5 feet from the ground.                                                                     |
+|  9 | status             | STRING  | Poor              | Overall tree condition.                                                                                                                         |
+| 10 | wires              | STRING  | None              | Whether the tree is located under utility wires                                                                                                 |
+| 11 | sidewalk_condition | STRING  | Good              | Whether the tree roots have lifted the adjacent sidewalk.                                                                                       |
+| 12 | support_structure  | STRING  | None              | Whether the tree has support structures installed.                                                                                              |
+| 13 | borough            | STRING  | Manhattan         | Borough where tree was recorded.                                                                                                                |
+| 14 | x                  | FLOAT   | 1.0               | X coordinate of point in the NAD_1983_StatePlane_New_York_Long_Island_FIPS_3104_Feet coordinate system, geocoded using LION 02A                 |
+| 15 | y                  | FLOAT   | 1.0               | Y coordinate of point in the NAD_1983_StatePlane_New_York_Long_Island_FIPS_3104_Feet coordinate system, geocoded using LION 02A                 |
+| 16 | longitude          | FLOAT   | 1.0               | Longitude of point in decimal degrees as geocoded using LION 02A                                                                                |
+| 17 | latitude           | FLOAT   | 1.0               | Latitude of point in decimal degrees as geocoded using LION 02A                                                                                 |
+| 18 | cb_new             | INTEGER | 0                 | Community Board geocoded to the address using Geosupport 11.4                                                                                   |
+| 19 | zip_new            | INTEGER | 0                 | Zip Code geocoded to the address using Geosupport 11.4                                                                                          |
+| 20 | censustract_2010   | STRING  |                   | 2010 Census Tract geocoded to the address using Geosupport 11.4                                                                                 |
+| 21 | censusblock_2010   | STRING  |                   | 2010 Census Block geocoded to the address using Geosupport 11.4                                                                                 |
+| 22 | nta_2010           | STRING  | Unknown           | Neighborhood Tabulation Area geocoded to the address using Geosupport 11.4                                                                      |
+| 23 | segmentid          | INTEGER | 0                 | LION SegmentID geocoded to the address using Geosupport 11.4                                                                                    |
+| 24 | spc_common         | STRING  | OAK, PIN          | This is the common name for the species of this tree.                                                                                           |
+| 25 | spc_latin          | STRING  | QUERCUS PALUSTRIS | This is the latin/scientific name for the species of this tree.                                                                                 |
+| 26 | location           | STRING  | (1.0, 1.0)        |                                                                                                                                                 |
