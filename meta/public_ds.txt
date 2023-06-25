@@ -1,0 +1,320 @@
+america_health_rankings: America Health Rankings
+austin_311: None
+austin_bikeshare: Austin Bikeshare dataset
+austin_crime: Austin Crime dataset
+austin_incidents: None
+austin_waste: austin waste and diversion
+baseball: Overview: This public data includes pitch-by-pitch data for Major League Baseball (MLB) games in 201
+bigqueryml_ncaa: None
+bitcoin_blockchain: ****NOTE: This dataset has been migrated to `bigquery-public-data.crypto_bitcoin`. Updates to the da
+blackhole_database: None
+bls: Overview: This dataset includes economic statistics on inflation, prices, unemployment, and pay & be
+bls_qcew: None
+breathe: None
+broadstreet_adi: The Area Deprivation Index (ADI)  can show where areas of deprivation and affluence exist within a c
+catalonian_mobile_coverage: None
+catalonian_mobile_coverage_eu: None
+census_bureau_acs: None
+census_bureau_construction: None
+census_bureau_international: Overview: The United States Census Bureau�s international dataset provides estimates of country popu
+census_bureau_usa: Overview: The United States census count (also known as the Decennial Census of Population and Housi
+census_opportunity_atlas: Census Opportunity Atlas
+census_utility: None
+cfpb_complaints: None
+chicago_crime: This dataset reflects reported incidents of crime (with the exception of murders where data exists f
+chicago_taxi_trips: None
+clemson_dice: None
+cloud_storage_geo_index: None
+cms_codes: None
+cms_medicare: None
+cms_synthetic_patient_data_omop: None
+country_codes: None
+covid19_aha: None
+covid19_covidtracking: None
+covid19_ecdc: None
+covid19_ecdc_eu: None
+covid19_genome_sequence: None
+covid19_geotab_mobility_impact: None
+covid19_geotab_mobility_impact_eu: None
+covid19_google_mobility: UPDATE: The Community Mobility Reports are no longer being updated as of October 15, 2022. All histo
+covid19_google_mobility_eu: Terms of use
+In order to download or use the data or reports, you must agree to the Google Terms of 
+covid19_govt_response: None
+covid19_italy: COVID-19 Italy
+covid19_italy_eu: COVID-19 Italy data stored in EU region.
+covid19_jhu_csse: Overview:
+This is the data repository for the 2019 Novel Coronavirus Visual Dashboard  operated by t
+covid19_jhu_csse_eu: Overview:
+This is the data repository for the 2019 Novel Coronavirus Visual Dashboard  operated by t
+covid19_nyt: Data on coronavirus cases and deaths in the U.S. published by The New York Times.
+
+Sourced from http
+covid19_open_data: This dataset contains country-level datasets of daily time-series data related to COVID-19 globally.
+covid19_open_data_eu: This dataset contains country-level datasets of daily time-series data related to COVID-19 globally.
+covid19_public_forecasts: None
+covid19_public_forecasts_asia_ne1: None
+covid19_rxrx19: None
+covid19_symptom_search: Terms of use
+To download or use the data, you must agree to the Google Terms of Service: https://pol
+covid19_tracking: None
+covid19_usafacts: Overview:
+This data from USAFacts (https://usafacts.org/visualizations/coronavirus-covid-19-spread-m
+covid19_vaccination_access: The dataset contains catchment areas surrounding COVID-19 vaccination sites (sometimes called facili
+covid19_vaccination_search_insights: Terms of use
+To download or use the data, you must agree to the Google Terms of Service: https://pol
+covid19_weathersource_com: None
+crypto_band: None
+crypto_bitcoin: 
+crypto_bitcoin_cash: None
+crypto_dash: None
+crypto_dogecoin: None
+crypto_ethereum: None
+crypto_ethereum_classic: None
+crypto_iotex: None
+crypto_kusama: Kusama is a blockchain platform that operates within the Polkadot ecosystem. It was created by the s
+crypto_litecoin: None
+crypto_polkadot: Polkadot is a next-generation blockchain platform designed to enable interoperability between differ
+crypto_polygon: None
+crypto_tezos: None
+crypto_theta: None
+crypto_zcash: None
+crypto_zilliqa: None
+cymbal_investments: None
+dataflix_covid: The Dataflix COVID dataset is a centralized repository of up-to-date and curated data focused on key
+dataflix_traffic_safety: High-demand automotive curated datasets, making it easy to access and discover deep insights into ve
+deepmind_alphafold: Metadata for the AlphaFold Protein Structure Database
+deps_dev_v1: None
+dimensions_ai_covid19: Dimensions (dimensions.ai) data relating to COVID-19 publications, grants, clinical trials and data 
+ebi_chembl: None
+ebi_surechembl: SureChEMBL Data is a database of compounds extracted from the full text, images and attachments of p
+eclipse_megamovie: None
+epa_historical_air_quality: US Environmental Protection Agency. Air Quality System Data Mart [internet database] available via h
+ethereum_blockchain: ****NOTE: This dataset has been migrated to `bigquery-public-data.crypto_ethereum`. Updates to the d
+etsi_technical_standards: European Telecommunications Standards Institute (ETSI) IPR dataset for technical standards.
+These ar
+faa: None
+fcc_political_ads: This dataset contains information on political advertising run by TV and radio broadcast stations. I
+fda_drug: None
+fda_food: None
+fdic_banks: None
+fec: The FEC dataset contains committee, candidate and campaign finance data for the current election cyc
+fhir_synthea: None
+ga4_obfuscated_sample_ecommerce: Obfuscated Google Analytics 4 data emulating a web ecommerce implementation of Google Analytics. It�
+gbif: The Global Biodiversity Information Facility is an international network and data infrastructure fun
+gdelt_hathitrustbooks: None
+gdelt_internetarchivebooks: None
+genomics_cannabis: In October 2016, Phylos Bioscience released a genomic open dataset of approximately 850 strains of C
+genomics_rice: None
+geo_census_blockgroups: None
+geo_census_tracts: Overview: These are full-resolution boundary files, derived from TIGER/Line Shapefiles, the fully-su
+geo_international_ports: None
+geo_openstreetmap: None
+geo_us_boundaries: None
+geo_us_census_places: Overview: These are full-resolution boundary files, derived from TIGER/Line Shapefiles, the fully-su
+geo_us_roads: Overview: The TIGER/Line Shapefiles are the fully-supported, core geographic products from the US Ce
+geo_whos_on_first: None
+ghcn_d: Overview: NOAA�s Global Historical Climatology Network (GHCN) is an integrated database of climate s
+ghcn_m: Overview: NOAA�s Global Historical Climatology Network (GHCN) is an integrated database of climate s
+github_repos: Contents from 2.9M public, open source licensed repositories on GitHub.
+gnomAD: None
+gnomAD_asiane1: None
+gnomAD_eu: None
+google_ads: None
+google_ads_geo_mapping_asia_east1: None
+google_ads_geo_mapping_asia_east2: None
+google_ads_geo_mapping_asia_northeast1: None
+google_ads_geo_mapping_asia_northeast2: None
+google_ads_geo_mapping_asia_northeast3: None
+google_ads_geo_mapping_asia_south1: None
+google_ads_geo_mapping_asia_south2: None
+google_ads_geo_mapping_asia_southeast1: None
+google_ads_geo_mapping_asia_southeast2: None
+google_ads_geo_mapping_australia_southeast1: None
+google_ads_geo_mapping_australia_southeast2: None
+google_ads_geo_mapping_eu: None
+google_ads_geo_mapping_europe_central2: None
+google_ads_geo_mapping_europe_north1: None
+google_ads_geo_mapping_europe_southwest1: None
+google_ads_geo_mapping_europe_west1: None
+google_ads_geo_mapping_europe_west2: None
+google_ads_geo_mapping_europe_west3: None
+google_ads_geo_mapping_europe_west4: None
+google_ads_geo_mapping_europe_west6: None
+google_ads_geo_mapping_europe_west8: None
+google_ads_geo_mapping_europe_west9: None
+google_ads_geo_mapping_me_west1: None
+google_ads_geo_mapping_northamerica_northeast1: None
+google_ads_geo_mapping_northamerica_northeast2: None
+google_ads_geo_mapping_southamerica_east1: None
+google_ads_geo_mapping_southamerica_west1: None
+google_ads_geo_mapping_us: None
+google_ads_geo_mapping_us_central1: None
+google_ads_geo_mapping_us_east1: None
+google_ads_geo_mapping_us_east4: None
+google_ads_geo_mapping_us_east5: None
+google_ads_geo_mapping_us_south1: None
+google_ads_geo_mapping_us_west1: None
+google_ads_geo_mapping_us_west2: None
+google_ads_geo_mapping_us_west3: None
+google_ads_geo_mapping_us_west4: None
+google_analytics_sample: Obfuscated Google Analytics 360 data. It�s a great way to look at business data and experiment and l
+google_books_ngrams_2020: None
+google_cfe: Carbon-free energy (CFE) scores for Google Cloud regions and other Google data center regions
+google_cloud_release_notes: This dataset contains release notes for the majority of generally available Google Cloud products fo
+google_dei: Diversity, Equity, and Inclusion (DEI) includes demographic data on workforce representation, hiring
+google_patents_research: Google Patents Research Data contains the output of much of the data analysis work used in Google Pa
+google_political_ads: Overview: This dataset contains information on how much money is spent by verified advertisers on po
+google_trends: The Google Trends dataset will provide critical signals that individual users and businesses alike c
+grid_ac: GRID (grid.ac) - Global Research Identifier Database [US dataset location]
+hacker_news: This dataset contains all stories and comments from Hacker News from its launch in 2006.  Each story
+hud_zipcode_crosswalk: None
+human_genome_variants: Publicly available datasets containing human genome variants.
+human_variant_annotation: Publicly Available Variant Annotation Databases
+idc_current: Imaging Data Commons (IDC) - The Cancer Imaging Archive (TCIA) current data
+idc_current_clinical: Imaging Data Commons (IDC) - The Cancer Imaging Archive (TCIA) current_clinical data
+idc_v1: Imaging Data Commons (IDC) - The Cancer Imaging Archive (TCIA) v1 data
+idc_v10: Imaging Data Commons (IDC) - The Cancer Imaging Archive (TCIA) v10 data
+idc_v11: Imaging Data Commons (IDC) - The Cancer Imaging Archive (TCIA) v11 data
+idc_v11_clinical: Imaging Data Commons (IDC) - The Cancer Imaging Archive (TCIA) v11_clinical data
+idc_v12: Imaging Data Commons (IDC) - The Cancer Imaging Archive (TCIA) v12 data
+idc_v12_clinical: Imaging Data Commons (IDC) - The Cancer Imaging Archive (TCIA) v12_clinical data
+idc_v13: Imaging Data Commons (IDC) - The Cancer Imaging Archive (TCIA) v13 data
+idc_v13_clinical: Imaging Data Commons (IDC) - The Cancer Imaging Archive (TCIA) v13_clinical data
+idc_v14: Imaging Data Commons (IDC) - The Cancer Imaging Archive (TCIA) v14 data
+idc_v14_clinical: Imaging Data Commons (IDC) - The Cancer Imaging Archive (TCIA) v14_clinical data
+idc_v2: Imaging Data Commons (IDC) - The Cancer Imaging Archive (TCIA) v2 data
+idc_v3: Imaging Data Commons (IDC) - The Cancer Imaging Archive (TCIA) v3 data
+idc_v4: Imaging Data Commons (IDC) - The Cancer Imaging Archive (TCIA) v4 data
+idc_v5: Imaging Data Commons (IDC) - The Cancer Imaging Archive (TCIA) v5 data
+idc_v6: Imaging Data Commons (IDC) - The Cancer Imaging Archive (TCIA) v6 data
+idc_v7: Imaging Data Commons (IDC) - The Cancer Imaging Archive (TCIA) v7 data
+idc_v8: Imaging Data Commons (IDC) - The Cancer Imaging Archive (TCIA) v8 data
+idc_v9: Imaging Data Commons (IDC) - The Cancer Imaging Archive (TCIA) v9 data
+imdb: None
+immune_epitope_db: None
+iowa_liquor_sales: "This dataset contains every wholesale purchase of liquor in the State of Iowa by retailers for sale
+iowa_liquor_sales_forecasting: A time series dataset containing samples drawn from the Iowa Liquor Retail Sales dataset. Data were 
+irs_990: irs_990
+labeled_patents: The dataset consists of PDFs in Google Cloud Storage  from the first page of select US and EU patent
+libraries_io: Libraries.io gathers data on open source software from 33 package managers and 3 source code reposit
+listenbrainz: None
+london_bicycles: None
+london_crime: None
+london_fire_brigade: None
+marec: MAREC Data is a static collection of over 19 million patent applications and granted patents in a un
+medicare: None
+ml_datasets: None
+ml_datasets_uscentral1: None
+modis_terra_net_primary_production: None
+moon_phases: None
+multilingual_spoken_words_corpus: None
+nasa_wildfire: This datasets contains the VIIRS 375 m (VNP14IMGTDL_NRT) active fire product, which is the latest pr
+ncaa_basketball: This dataset contains data about NCAA Basketball games, teams, and players. Game data covers play-by
+nces_ipeds: The National Center for Education Statistics (NCES) collects, analyzes and makes available data rela
+new_york: new_york
+new_york_311: None
+new_york_citibike: None
+new_york_mv_collisions: None
+new_york_subway: None
+new_york_taxi_trips: None
+new_york_trees: None
+nhtsa_traffic_fatalities: None
+nih_gudid: None
+nih_sequence_read: None
+nlm_rxnorm: None
+noaa_global_forecast_system: None
+noaa_goes16: Overview: GOES-16 (Geostationary Operational Environmental Satellite) is the first in the GOES-R ser
+noaa_goes17: Overview: GOES-17 (Geostationary Operational Environmental Satellite) is the second in the GOES-R se
+noaa_gsod: Overview: This public dataset was created by the National Oceanic and Atmospheric Administration (NO
+noaa_historic_severe_storms: Overview: The Storm Events Database is an integrated database of severe weather events across the Un
+noaa_hurricanes: None
+noaa_icoads: Overview: The ICOADS dataset contains global marine data from ships (merchant, navy, research) and b
+noaa_lightning: None
+noaa_nwm: None
+noaa_passive_acoustic_index: None
+noaa_passive_bioacoustic: None
+noaa_pifsc_metadata: None
+noaa_preliminary_severe_storms: Overview: A database of preliminary details from US storm as reported by local National Weather Serv
+noaa_significant_earthquakes: According to the National Center for Environmental Information (NCEI): 
+
+"The Significant Earthquake
+noaa_tsunami: Overview: The Global Historical Tsunami Database provides information on over 2,400 tsunamis from 20
+nppes: None
+nrel_nsrdb: None
+open_buildings: None
+open_images: None
+open_targets_genetics: Open-Targets-Genetics dataset
+open_targets_platform: Open-Targets dataset
+openaq: OpenAQ is an open-source project to surface live, real-time air quality data from around the world. 
+patents: Google Patents Public Data, provided by IFI CLAIMS Patent Services, is a worldwide bibliographic and
+patents_cpc: Cooperative Patent Classification Data contains the scheme and definitions of the Cooperative Patent
+patents_dsep: Disclosed Standard Essential Patents (dSEP) Data provides a full overview of disclosed intellectual 
+patents_view: PatentsView Data is a database that longitudinally links inventors, their organizations, locations, 
+persistent_udfs: A collection of persistent user-defined functions (UDFs) that can help you work through your analysi
+properati_properties_ar: None
+properati_properties_br: None
+properati_properties_cl: None
+properati_properties_co: None
+properati_properties_mx: None
+properati_properties_pe: None
+properati_properties_uy: None
+pypi: Python Package Index dataset.
+
+These datasets are owned by the Python Software Foundation (https://w
+samples: A collection of tables that are subset of larger datasets.  These tables are suited for testing quer
+san_francisco: This dataset has been deprecated and is not being updated. Please use the replacement datasets (bigq
+san_francisco_311: San Francisco 311 Service Requests
+san_francisco_bikeshare: san_francisco_bikeshare
+san_francisco_film_locations: san_francisco_film_locations
+san_francisco_neighborhoods: None
+san_francisco_sffd_service_calls: None
+san_francisco_sfpd_incidents: None
+san_francisco_transit_muni: None
+san_francisco_trees: San Francisco Trees dataset
+sdoh_bea_cainc30: None
+sdoh_cdc_wonder_natality: None
+sdoh_cms_dual_eligible_enrollment: None
+sdoh_hrsa_shortage_areas: None
+sdoh_hud_housing: None
+sdoh_hud_pit_homelessness: None
+sdoh_snap_enrollment: None
+sec_quarterly_financials: In the U.S. public companies, certain insiders and broker-dealers are required to regularly file wit
+stackoverflow: None
+sunroof_solar: Project Sunroof computes how much sunlight hits your roof in a year. Solar viability is determined u
+the_general_index: None
+the_met: The Metropolitan Museum of Art, better known as the Met, provides a public domain dataset  with over
+thelook_ecommerce: Fictitious E-Commerce Dataset
+ucb_fung_patent_data: Accompanying materials to
+
+Balsmeier, B., Assaf, M., Chesebro, T., Fierro, G., Johnson, K., Johnson,
+umiami_lincs: None
+un_sdg: None
+us_res_real_est_data: None
+usa_contagious_disease: None
+usa_names: This public dataset was created by the Social Security Administration and contains all names from So
+usda_nass_agriculture: None
+usfs_fia: US Forest Service Forest Inventory and Analysis National Program.
+
+
+Learn more at the Forest Service
+usitc_investigations: US International Trade Commission 337Info Unfair Import Investigations Information System contains d
+uspto_oce_assignment: USPTO OCE Patent Assignment Dataset contains detailed data patent assignments and other transactions
+uspto_oce_cancer: None
+uspto_oce_claims: USPTO OCE Patent Claims Research data contains detailed information on claims from U.S. patents gran
+uspto_oce_litigation: USPTO OCE Patent Litigation Docket Reports Data contains detailed patent litigation data on 74,623 u
+uspto_oce_office_actions: The Office Action Research Dataset for Patents contains detailed information derived from the Office
+uspto_oce_pair: USPTO Patent Examination Research Data (PatEx) contains detailed information on millions of publicly
+uspto_ptab: USPTO Patent Trial and Appeal Board (PTAB) API Data contains data from the PTAB E2E (end-to-end) sys
+utility_eu: None
+utility_us: ALL GEOGRAPHIC BOUNDARIES DATA HAS MOVED!
+
+You can find all of the datasets that define the polygons
+wikipedia: None
+wise_all_sky_data_release: NASA's Wide-field Infrared Survey Explorer (WISE; Wright et al. 2010) mapped the sky at 3.4, 4.6, 12
+world_bank_global_population: None
+world_bank_health_population: World Bank Health Population
+world_bank_intl_debt: World Bank Intl Debt
+world_bank_intl_education: World Bank Intl Education
+world_bank_wdi: World Bank WDI dataset
+worldbank_wdi: World Development Indicators Data is the primary World Bank collection of development indicators, co
+worldpop: None
